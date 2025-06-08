@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "LAGO BUENOS AIRES",
+    "latitud": "-46.04208374",
+    "longitud": "-71.65873718"
+  },
+  {
+    "nombre": "RÍO CHICO",
+    "latitud": "-47.45429993",
+    "longitud": "-71.84503174"
+  },
+  {
+    "nombre": "LAGO ARGENTINO",
+    "latitud": "-50.27098465",
+    "longitud": "-71.8927536"
+  },
+  {
+    "nombre": "DESEADO",
+    "latitud": "-47.88713837",
+    "longitud": "-66.95114899"
+  },
+  {
+    "nombre": "GUER AIKE",
+    "latitud": "-51.8701101",
+    "longitud": "-70.5994988"
+  },
+  {
+    "nombre": "CORPEN AIKE",
+    "latitud": "-50.20358968",
+    "longitud": "-69.91434697"
+  },
+  {
+    "nombre": "MAGALLANES",
+    "latitud": "-49.06422424",
+    "longitud": "-68.32466888"
+  }
+]

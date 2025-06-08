@@ -1,0 +1,132 @@
+[
+  {
+    "nombre": "MARCOS JUAREZ",
+    "latitud": "-32.62947464",
+    "longitud": "-62.30913162"
+  },
+  {
+    "nombre": "RIO SECO",
+    "latitud": "-29.8135599",
+    "longitud": "-63.75524"
+  },
+  {
+    "nombre": "RIO SEGUNDO",
+    "latitud": "-31.59773001",
+    "longitud": "-63.24553941"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-31.47878838",
+    "longitud": "-64.14509582"
+  },
+  {
+    "nombre": "GENERAL ROCA",
+    "latitud": "-34.8188719",
+    "longitud": "-63.3857113"
+  },
+  {
+    "nombre": "SANTA MARÍA",
+    "latitud": "-31.55910043",
+    "longitud": "-64.19196866"
+  },
+  {
+    "nombre": "PRESIDENTE ROQUE SAENZ PEÑA",
+    "latitud": "-33.90469055",
+    "longitud": "-63.83804658"
+  },
+  {
+    "nombre": "TOTORAL",
+    "latitud": "-30.81785967",
+    "longitud": "-64.21185018"
+  },
+  {
+    "nombre": "JUAREZ CELMAN",
+    "latitud": "-33.3160107",
+    "longitud": "-63.2538219"
+  },
+  {
+    "nombre": "PUNILLA",
+    "latitud": "-31.10580063",
+    "longitud": "-64.59128571"
+  },
+  {
+    "nombre": "TULUMBA",
+    "latitud": "-29.9823914",
+    "longitud": "-64.49000783"
+  },
+  {
+    "nombre": "SAN JUSTO",
+    "latitud": "-31.23400374",
+    "longitud": "-62.74066613"
+  },
+  {
+    "nombre": "MINAS",
+    "latitud": "-30.84970027",
+    "longitud": "-65.36509038"
+  },
+  {
+    "nombre": "UNION",
+    "latitud": "-33.4792553",
+    "longitud": "-62.9564065"
+  },
+  {
+    "nombre": "SOBREMONTE",
+    "latitud": "-29.61635494",
+    "longitud": "-64.06243638"
+  },
+  {
+    "nombre": "CALAMUCHITA",
+    "latitud": "-32.09286214",
+    "longitud": "-64.56387845"
+  },
+  {
+    "nombre": "TERCERO ARRIBA",
+    "latitud": "-32.25289151",
+    "longitud": "-64.25143209"
+  },
+  {
+    "nombre": "RIO PRIMERO",
+    "latitud": "-30.80593546",
+    "longitud": "-63.17324292"
+  },
+  {
+    "nombre": "ISCHILIN",
+    "latitud": "-30.64323498",
+    "longitud": "-64.49851277"
+  },
+  {
+    "nombre": "POCHO",
+    "latitud": "-31.31932831",
+    "longitud": "-65.61785889"
+  },
+  {
+    "nombre": "CRUZ DEL EJE",
+    "latitud": "-31.0893001",
+    "longitud": "-65.0484771"
+  },
+  {
+    "nombre": "SAN ALBERTO",
+    "latitud": "-31.79056275",
+    "longitud": "-65.16710187"
+  },
+  {
+    "nombre": "RIO CUARTO",
+    "latitud": "-32.64751095",
+    "longitud": "-64.22141859"
+  },
+  {
+    "nombre": "SAN JAVIER",
+    "latitud": "-32.01613487",
+    "longitud": "-65.16382005"
+  },
+  {
+    "nombre": "GENERAL SAN MARTIN",
+    "latitud": "-32.34123693",
+    "longitud": "-62.99621706"
+  },
+  {
+    "nombre": "COLON",
+    "latitud": "-31.25624481",
+    "longitud": "-63.95340394"
+  }
+]

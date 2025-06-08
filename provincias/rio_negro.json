@@ -1,0 +1,67 @@
+[
+  {
+    "nombre": "EL CUY",
+    "latitud": "-39.86671829",
+    "longitud": "-68.7034378"
+  },
+  {
+    "nombre": "25 DE MAYO",
+    "latitud": "-41.5127138",
+    "longitud": "-69.51735638"
+  },
+  {
+    "nombre": "ÑORQUINCO",
+    "latitud": "-41.68252462",
+    "longitud": "-70.71325062"
+  },
+  {
+    "nombre": "GENERAL ROCA",
+    "latitud": "-39.13837603",
+    "longitud": "-66.90952075"
+  },
+  {
+    "nombre": "VALCHETA",
+    "latitud": "-41.21434551",
+    "longitud": "-66.33830967"
+  },
+  {
+    "nombre": "9 DE JULIO",
+    "latitud": "-41.25013351",
+    "longitud": "-66.89643097"
+  },
+  {
+    "nombre": "AVELLANEDA",
+    "latitud": "-39.60125657",
+    "longitud": "-65.49681844"
+  },
+  {
+    "nombre": "BARILOCHE",
+    "latitud": "-41.89814608",
+    "longitud": "-71.50316469"
+  },
+  {
+    "nombre": "PILCANIYEU",
+    "latitud": "-41.32152141",
+    "longitud": "-70.27466678"
+  },
+  {
+    "nombre": "SAN ANTONIO",
+    "latitud": "-40.77858734",
+    "longitud": "-65.0507431"
+  },
+  {
+    "nombre": "PICHI MAHUIDA",
+    "latitud": "-39.0626",
+    "longitud": "-63.9792"
+  },
+  {
+    "nombre": "CONESA",
+    "latitud": "-40.2205658",
+    "longitud": "-64.07060242"
+  },
+  {
+    "nombre": "ADOLFO ALSINA",
+    "latitud": "-40.63358307",
+    "longitud": "-63.50950623"
+  }
+]

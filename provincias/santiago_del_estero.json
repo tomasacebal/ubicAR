@@ -1,0 +1,137 @@
+[
+  {
+    "nombre": "JIMENEZ",
+    "latitud": "-26.68895431",
+    "longitud": "-64.45447124"
+  },
+  {
+    "nombre": "AVELLANEDA",
+    "latitud": "-28.70814175",
+    "longitud": "-63.1050531"
+  },
+  {
+    "nombre": "RIVADAVIA",
+    "latitud": "-29.83512",
+    "longitud": "-62.16991"
+  },
+  {
+    "nombre": "SALAVINA",
+    "latitud": "-29.03431036",
+    "longitud": "-63.33874661"
+  },
+  {
+    "nombre": "BANDA",
+    "latitud": "-27.59548811",
+    "longitud": "-64.41117012"
+  },
+  {
+    "nombre": "ROBLES",
+    "latitud": "-27.84078886",
+    "longitud": "-63.93408912"
+  },
+  {
+    "nombre": "RIO HONDO",
+    "latitud": "-27.60805727",
+    "longitud": "-64.54365708"
+  },
+  {
+    "nombre": "LORETO",
+    "latitud": "-28.47635326",
+    "longitud": "-64.04507396"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-27.80983349",
+    "longitud": "-64.48893926"
+  },
+  {
+    "nombre": "ALBERDI",
+    "latitud": "-26.78946686",
+    "longitud": "-62.70516586"
+  },
+  {
+    "nombre": "QUEBRACHOS",
+    "latitud": "-29.79049",
+    "longitud": "-63.18682"
+  },
+  {
+    "nombre": "BELGRANO",
+    "latitud": "-28.89628",
+    "longitud": "-62.62596"
+  },
+  {
+    "nombre": "PELLEGRINI",
+    "latitud": "-26.28318787",
+    "longitud": "-64.45684051"
+  },
+  {
+    "nombre": "MITRE",
+    "latitud": "-29.29157166",
+    "longitud": "-63.03450311"
+  },
+  {
+    "nombre": "COPO",
+    "latitud": "-25.72948778",
+    "longitud": "-63.46601397"
+  },
+  {
+    "nombre": "AGUIRRE",
+    "latitud": "-28.96850322",
+    "longitud": "-62.90029132"
+  },
+  {
+    "nombre": "FIGUEROA",
+    "latitud": "-26.91460859",
+    "longitud": "-63.52985443"
+  },
+  {
+    "nombre": "CHOYA",
+    "latitud": "-28.59957504",
+    "longitud": "-64.66501617"
+  },
+  {
+    "nombre": "ATAMISQUI",
+    "latitud": "-28.82072",
+    "longitud": "-63.74698"
+  },
+  {
+    "nombre": "GUASAYAN",
+    "latitud": "-27.85040092",
+    "longitud": "-65.01179504"
+  },
+  {
+    "nombre": "SARMIENTO",
+    "latitud": "-28.08144587",
+    "longitud": "-63.33466823"
+  },
+  {
+    "nombre": "OJO DE AGUA",
+    "latitud": "-29.72712",
+    "longitud": "-63.42753"
+  },
+  {
+    "nombre": "MORENO",
+    "latitud": "-27.41385841",
+    "longitud": "-63.06546783"
+  },
+  {
+    "nombre": "GENERAL TABOADA",
+    "latitud": "-28.41299021",
+    "longitud": "-62.79434139"
+  },
+  {
+    "nombre": "SAN MARTIN",
+    "latitud": "-28.2954",
+    "longitud": "-63.86655"
+  },
+  {
+    "nombre": "SILIPICA",
+    "latitud": "-28.10344",
+    "longitud": "-64.08491"
+  },
+  {
+    "nombre": "JUAN F IBARRA",
+    "latitud": "-27.95003",
+    "longitud": "-61.84724"
+  }
+]

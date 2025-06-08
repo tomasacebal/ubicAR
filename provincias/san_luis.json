@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "CHACABUCO",
+    "latitud": "-32.56339762",
+    "longitud": "-65.03153074"
+  },
+  {
+    "nombre": "GENERAL PEDERNERA",
+    "latitud": "-33.7828408",
+    "longitud": "-65.72200942"
+  },
+  {
+    "nombre": "CORONEL PRINGLES",
+    "latitud": "-33.12074849",
+    "longitud": "-65.96684395"
+  },
+  {
+    "nombre": "JUNIN",
+    "latitud": "-32.31398017",
+    "longitud": "-65.41102538"
+  },
+  {
+    "nombre": "LIBERTADOR GENERAL SAN MARTÍN",
+    "latitud": "-32.77143097",
+    "longitud": "-65.76694489"
+  },
+  {
+    "nombre": "AYACUCHO",
+    "latitud": "-32.13651315",
+    "longitud": "-66.85445389"
+  },
+  {
+    "nombre": "JUAN MARTÍN DE PUEYRREDÓN",
+    "latitud": "-33.36877796",
+    "longitud": "-66.40741813"
+  },
+  {
+    "nombre": "BELGRANO",
+    "latitud": "-32.52213375",
+    "longitud": "-66.48595015"
+  },
+  {
+    "nombre": "GOBERNADOR DUPUY",
+    "latitud": "-34.82387161",
+    "longitud": "-66.44893646"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "nombre": "TOLHUIN",
+    "latitud": "-54.51138675",
+    "longitud": "-67.19580446"
+  },
+  {
+    "nombre": "RIO GRANDE",
+    "latitud": "-52.88412863",
+    "longitud": "-68.44878312"
+  },
+  {
+    "nombre": "ISLAS DEL ATLANTICO SUR",
+    "latitud": "-51.80653183",
+    "longitud": "-58.95965896"
+  },
+  {
+    "nombre": "ANTÁRTIDA ARGENTINA",
+    "latitud": "-64.15580231",
+    "longitud": "-60.95507405"
+  },
+  {
+    "nombre": "USHUAIA",
+    "latitud": "-54.63768608",
+    "longitud": "-67.76694086"
+  }
+]

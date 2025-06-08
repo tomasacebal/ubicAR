@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "YAVI",
+    "latitud": "-22.32981174",
+    "longitud": "-65.82598231"
+  },
+  {
+    "nombre": "RINCONADA",
+    "latitud": "-22.53894",
+    "longitud": "-65.96138"
+  },
+  {
+    "nombre": "EL CARMEN",
+    "latitud": "-24.4262104",
+    "longitud": "-65.10740662"
+  },
+  {
+    "nombre": "TUMBAYA",
+    "latitud": "-23.83205605",
+    "longitud": "-65.47557831"
+  },
+  {
+    "nombre": "DOCTOR MANUEL BELGRANO",
+    "latitud": "-24.02938843",
+    "longitud": "-65.64742279"
+  },
+  {
+    "nombre": "SAN ANTONIO",
+    "latitud": "-24.37362671",
+    "longitud": "-65.60406494"
+  },
+  {
+    "nombre": "PALPALA",
+    "latitud": "-24.18229866",
+    "longitud": "-65.20774078"
+  },
+  {
+    "nombre": "SUSQUES",
+    "latitud": "-23.11491966",
+    "longitud": "-66.25007629"
+  },
+  {
+    "nombre": "VALLE GRANDE",
+    "latitud": "-23.56311433",
+    "longitud": "-64.89713769"
+  },
+  {
+    "nombre": "TILCARA",
+    "latitud": "-23.77525242",
+    "longitud": "-65.29804781"
+  },
+  {
+    "nombre": "COCHINOCA",
+    "latitud": "-22.84146227",
+    "longitud": "-66.07927857"
+  },
+  {
+    "nombre": "SAN PEDRO",
+    "latitud": "-24.40863991",
+    "longitud": "-64.62158966"
+  },
+  {
+    "nombre": "SANTA CATALINA",
+    "latitud": "-22.05120277",
+    "longitud": "-65.84176636"
+  },
+  {
+    "nombre": "HUMAHUACA",
+    "latitud": "-22.96907829",
+    "longitud": "-65.43667552"
+  },
+  {
+    "nombre": "LEDESMA",
+    "latitud": "-23.88497353",
+    "longitud": "-64.67390442"
+  },
+  {
+    "nombre": "SANTA BARBARA",
+    "latitud": "-24.13571358",
+    "longitud": "-64.58811188"
+  }
+]

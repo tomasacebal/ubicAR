@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "LA PAZ",
+    "latitud": "-28.71805191",
+    "longitud": "-65.2964859"
+  },
+  {
+    "nombre": "BELEN",
+    "latitud": "-26.94426",
+    "longitud": "-66.73487"
+  },
+  {
+    "nombre": "SANTA ROSA",
+    "latitud": "-28.04503194",
+    "longitud": "-65.27845615"
+  },
+  {
+    "nombre": "ANCASTI",
+    "latitud": "-28.92693532",
+    "longitud": "-65.52077229"
+  },
+  {
+    "nombre": "VALLE VIEJO",
+    "latitud": "-28.56060853",
+    "longitud": "-65.78033708"
+  },
+  {
+    "nombre": "POMAN",
+    "latitud": "-28.33781745",
+    "longitud": "-66.54987231"
+  },
+  {
+    "nombre": "TINOGASTA",
+    "latitud": "-27.09210847",
+    "longitud": "-67.81896152"
+  },
+  {
+    "nombre": "CAPAYAN",
+    "latitud": "-29.02534681",
+    "longitud": "-66.00383546"
+  },
+  {
+    "nombre": "ANTOFAGASTA DE LA SIERRA",
+    "latitud": "-25.24611473",
+    "longitud": "-67.52076721"
+  },
+  {
+    "nombre": "ANDALGALÁ",
+    "latitud": "-27.61905956",
+    "longitud": "-66.11518542"
+  },
+  {
+    "nombre": "PACLIN",
+    "latitud": "-27.85473251",
+    "longitud": "-65.7172699"
+  },
+  {
+    "nombre": "SANTA MARIA",
+    "latitud": "-26.79468925",
+    "longitud": "-66.48349644"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-28.33210754",
+    "longitud": "-65.89406586"
+  },
+  {
+    "nombre": "EL ALTO",
+    "latitud": "-28.37478",
+    "longitud": "-65.15865"
+  },
+  {
+    "nombre": "AMBATO",
+    "latitud": "-27.89856",
+    "longitud": "-65.97863"
+  },
+  {
+    "nombre": "FRAY MAMERTO ESQUIU",
+    "latitud": "-28.30193901",
+    "longitud": "-65.72743988"
+  }
+]

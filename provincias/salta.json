@@ -1,0 +1,117 @@
+[
+  {
+    "nombre": "MOLINOS",
+    "latitud": "-25.39472961",
+    "longitud": "-66.38092804"
+  },
+  {
+    "nombre": "ROSARIO DE LA FRONTERA",
+    "latitud": "-25.89667",
+    "longitud": "-64.7655"
+  },
+  {
+    "nombre": "GENERAL GUEMES",
+    "latitud": "-24.75876236",
+    "longitud": "-64.99394226"
+  },
+  {
+    "nombre": "LA CALDERA",
+    "latitud": "-24.57701543",
+    "longitud": "-65.36872897"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-24.70494203",
+    "longitud": "-65.47051054"
+  },
+  {
+    "nombre": "GUACHIPAS",
+    "latitud": "-25.77241",
+    "longitud": "-65.34234"
+  },
+  {
+    "nombre": "SANTA VICTORIA",
+    "latitud": "-22.17502",
+    "longitud": "-64.93502"
+  },
+  {
+    "nombre": "CACHI",
+    "latitud": "-25.02048923",
+    "longitud": "-66.0970212"
+  },
+  {
+    "nombre": "LA VIÑA",
+    "latitud": "-25.62320328",
+    "longitud": "-65.61323547"
+  },
+  {
+    "nombre": "ROSARIO DE LERMA",
+    "latitud": "-24.14188957",
+    "longitud": "-66.01944733"
+  },
+  {
+    "nombre": "LA POMA",
+    "latitud": "-23.78698349",
+    "longitud": "-66.06783295"
+  },
+  {
+    "nombre": "CERRILLOS",
+    "latitud": "-24.95319832",
+    "longitud": "-65.42243492"
+  },
+  {
+    "nombre": "RIVADAVIA",
+    "latitud": "-22.49881",
+    "longitud": "-62.40759"
+  },
+  {
+    "nombre": "LA CANDELARIA",
+    "latitud": "-26.14426",
+    "longitud": "-65.0142"
+  },
+  {
+    "nombre": "ANTA",
+    "latitud": "-24.25001144",
+    "longitud": "-64.14095306"
+  },
+  {
+    "nombre": "CHICOANA",
+    "latitud": "-25.15339187",
+    "longitud": "-65.69363231"
+  },
+  {
+    "nombre": "CAFAYATE",
+    "latitud": "-26.10228924",
+    "longitud": "-66.01550671"
+  },
+  {
+    "nombre": "LOS ANDES",
+    "latitud": "-24.65456963",
+    "longitud": "-67.30360413"
+  },
+  {
+    "nombre": "METAN",
+    "latitud": "-25.51643753",
+    "longitud": "-64.60592651"
+  },
+  {
+    "nombre": "GENERAL JOSE DE SAN MARTÍN",
+    "latitud": "-22.16459982",
+    "longitud": "-63.9088426"
+  },
+  {
+    "nombre": "ORAN",
+    "latitud": "-22.9746",
+    "longitud": "-64.41384"
+  },
+  {
+    "nombre": "IRUYA",
+    "latitud": "-22.7747986",
+    "longitud": "-65.14338644"
+  },
+  {
+    "nombre": "SAN CARLOS",
+    "latitud": "-25.54455",
+    "longitud": "-65.82056"
+  }
+]

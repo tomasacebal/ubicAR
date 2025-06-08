@@ -1,0 +1,87 @@
+[
+  {
+    "nombre": "GUALEGUAY",
+    "latitud": "-33.55871824",
+    "longitud": "-59.48052013"
+  },
+  {
+    "nombre": "VILLAGUAY",
+    "latitud": "-31.77167964",
+    "longitud": "-59.57091449"
+  },
+  {
+    "nombre": "VICTORIA",
+    "latitud": "-32.957337",
+    "longitud": "-60.049086"
+  },
+  {
+    "nombre": "PARANA",
+    "latitud": "-31.88541285",
+    "longitud": "-60.23444834"
+  },
+  {
+    "nombre": "SAN SALVADOR",
+    "latitud": "-31.59398509",
+    "longitud": "-58.37116015"
+  },
+  {
+    "nombre": "FELICIANO",
+    "latitud": "-30.42934153",
+    "longitud": "-58.76618814"
+  },
+  {
+    "nombre": "GUALEGUAYCHU",
+    "latitud": "-33.15450509",
+    "longitud": "-58.98890112"
+  },
+  {
+    "nombre": "FEDERAL",
+    "latitud": "-30.97193714",
+    "longitud": "-58.99327599"
+  },
+  {
+    "nombre": "CONCORDIA",
+    "latitud": "-31.35230446",
+    "longitud": "-58.05355072"
+  },
+  {
+    "nombre": "URUGUAY",
+    "latitud": "-32.38095474",
+    "longitud": "-58.23688127"
+  },
+  {
+    "nombre": "LA PAZ",
+    "latitud": "-30.60360412",
+    "longitud": "-59.52751986"
+  },
+  {
+    "nombre": "DIAMANTE",
+    "latitud": "-32.01197803",
+    "longitud": "-60.61726225"
+  },
+  {
+    "nombre": "TALA",
+    "latitud": "-31.99620378",
+    "longitud": "-59.24649058"
+  },
+  {
+    "nombre": "COLON",
+    "latitud": "-31.70735861",
+    "longitud": "-58.28660961"
+  },
+  {
+    "nombre": "FEDERACION",
+    "latitud": "-30.70681007",
+    "longitud": "-57.88784914"
+  },
+  {
+    "nombre": "ISLAS DEL IBICUY",
+    "latitud": "-33.7787707",
+    "longitud": "-58.54070986"
+  },
+  {
+    "nombre": "NOGOYA",
+    "latitud": "-32.17297901",
+    "longitud": "-59.56341301"
+  }
+]

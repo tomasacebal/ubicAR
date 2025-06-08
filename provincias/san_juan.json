@@ -1,0 +1,97 @@
+[
+  {
+    "nombre": "RAWSON",
+    "latitud": "-31.6492",
+    "longitud": "-68.5015"
+  },
+  {
+    "nombre": "ALBARDON",
+    "latitud": "-31.32696915",
+    "longitud": "-68.41723633"
+  },
+  {
+    "nombre": "9 DE JULIO",
+    "latitud": "-31.70219126",
+    "longitud": "-68.36862206"
+  },
+  {
+    "nombre": "RIVADAVIA",
+    "latitud": "-31.52868412",
+    "longitud": "-68.59820379"
+  },
+  {
+    "nombre": "SAN MARTIN",
+    "latitud": "-31.49227011",
+    "longitud": "-68.30050286"
+  },
+  {
+    "nombre": "CHIMBAS",
+    "latitud": "-31.49561411",
+    "longitud": "-68.56370679"
+  },
+  {
+    "nombre": "25 DE MAYO",
+    "latitud": "-31.73063248",
+    "longitud": "-68.34501277"
+  },
+  {
+    "nombre": "ULLUM",
+    "latitud": "-31.4627522",
+    "longitud": "-68.73605428"
+  },
+  {
+    "nombre": "VALLE FERTIL",
+    "latitud": "-30.80415774",
+    "longitud": "-67.366235"
+  },
+  {
+    "nombre": "ANGACO",
+    "latitud": "-31.45675103",
+    "longitud": "-68.34171324"
+  },
+  {
+    "nombre": "SARMIENTO",
+    "latitud": "-32.02091413",
+    "longitud": "-68.39270346"
+  },
+  {
+    "nombre": "SANTA LUCIA",
+    "latitud": "-31.50973511",
+    "longitud": "-68.5026858"
+  },
+  {
+    "nombre": "POCITO",
+    "latitud": "-31.72999788",
+    "longitud": "-68.56591515"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-31.53719704",
+    "longitud": "-68.52501832"
+  },
+  {
+    "nombre": "JACHAL",
+    "latitud": "-30.20949542",
+    "longitud": "-68.74673275"
+  },
+  {
+    "nombre": "ZONDA",
+    "latitud": "-31.77467156",
+    "longitud": "-68.91460419"
+  },
+  {
+    "nombre": "CALINGASTA",
+    "latitud": "-31.30289373",
+    "longitud": "-69.41260371"
+  },
+  {
+    "nombre": "CAUCETE",
+    "latitud": "-31.70272711",
+    "longitud": "-68.28587359"
+  },
+  {
+    "nombre": "IGLESIA",
+    "latitud": "-30.27013016",
+    "longitud": "-69.19116211"
+  }
+]

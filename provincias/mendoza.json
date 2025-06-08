@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "LUJAN DE CUYO",
+    "latitud": "-33.32638993",
+    "longitud": "-68.92342084"
+  },
+  {
+    "nombre": "GODOY CRUZ",
+    "latitud": "-32.92152832",
+    "longitud": "-68.85492318"
+  },
+  {
+    "nombre": "TUPUNGATO",
+    "latitud": "-33.30008474",
+    "longitud": "-69.17169565"
+  },
+  {
+    "nombre": "SANTA ROSA",
+    "latitud": "-33.0552929",
+    "longitud": "-68.06689238"
+  },
+  {
+    "nombre": "LA PAZ",
+    "latitud": "-33.55845261",
+    "longitud": "-67.25244904"
+  },
+  {
+    "nombre": "SAN CARLOS",
+    "latitud": "-33.67094361",
+    "longitud": "-68.98052274"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-32.87749385",
+    "longitud": "-68.85278707"
+  },
+  {
+    "nombre": "JUNIN",
+    "latitud": "-33.15090031",
+    "longitud": "-68.40880629"
+  },
+  {
+    "nombre": "TUNUYAN",
+    "latitud": "-33.4855528",
+    "longitud": "-69.18303881"
+  },
+  {
+    "nombre": "MAIPU",
+    "latitud": "-32.94093297",
+    "longitud": "-68.64291679"
+  },
+  {
+    "nombre": "LAVALLE",
+    "latitud": "-32.81013676",
+    "longitud": "-67.22178208"
+  },
+  {
+    "nombre": "GENERAL ALVEAR",
+    "latitud": "-35.16899569",
+    "longitud": "-66.50196772"
+  },
+  {
+    "nombre": "LAS HERAS",
+    "latitud": "-32.24008942",
+    "longitud": "-69.45531464"
+  },
+  {
+    "nombre": "RIVADAVIA",
+    "latitud": "-33.4740166",
+    "longitud": "-68.80969287"
+  },
+  {
+    "nombre": "MALARGUE",
+    "latitud": "-36.47914886",
+    "longitud": "-69.82659912"
+  },
+  {
+    "nombre": "GUAYMALLEN",
+    "latitud": "-32.92076147",
+    "longitud": "-68.70711858"
+  },
+  {
+    "nombre": "SAN RAFAEL",
+    "latitud": "-34.22018814",
+    "longitud": "-67.91163635"
+  },
+  {
+    "nombre": "SAN MARTIN",
+    "latitud": "-33.03597168",
+    "longitud": "-68.47084072"
+  }
+]

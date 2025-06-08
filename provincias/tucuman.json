@@ -1,0 +1,87 @@
+[
+  {
+    "nombre": "SIMOCA",
+    "latitud": "-27.40925026",
+    "longitud": "-65.26894379"
+  },
+  {
+    "nombre": "CRUZ ALTA",
+    "latitud": "-27.0201218",
+    "longitud": "-65.0182022"
+  },
+  {
+    "nombre": "BURRUYACU",
+    "latitud": "-26.36994",
+    "longitud": "-64.78136"
+  },
+  {
+    "nombre": "LA COCHA",
+    "latitud": "-27.75605583",
+    "longitud": "-65.59912109"
+  },
+  {
+    "nombre": "MONTEROS",
+    "latitud": "-27.13862419",
+    "longitud": "-65.44361877"
+  },
+  {
+    "nombre": "TRANCAS",
+    "latitud": "-26.38549995",
+    "longitud": "-65.36309814"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-26.82900979",
+    "longitud": "-65.21054418"
+  },
+  {
+    "nombre": "TAFI VIEJO",
+    "latitud": "-26.74196322",
+    "longitud": "-65.56315645"
+  },
+  {
+    "nombre": "TAFI DEL VALLE",
+    "latitud": "-26.596217",
+    "longitud": "-65.8573856"
+  },
+  {
+    "nombre": "GRANEROS",
+    "latitud": "-27.6423966",
+    "longitud": "-65.5086366"
+  },
+  {
+    "nombre": "FAMAILLA",
+    "latitud": "-27.11478",
+    "longitud": "-65.42955"
+  },
+  {
+    "nombre": "LEALES",
+    "latitud": "-27.14003944",
+    "longitud": "-65.13464355"
+  },
+  {
+    "nombre": "YERBA BUENA",
+    "latitud": "-26.77896396",
+    "longitud": "-65.28532084"
+  },
+  {
+    "nombre": "LULES",
+    "latitud": "-26.94954",
+    "longitud": "-65.30289"
+  },
+  {
+    "nombre": "RIO CHICO",
+    "latitud": "-27.4543092",
+    "longitud": "-65.603622"
+  },
+  {
+    "nombre": "JUAN B ALBERDI",
+    "latitud": "-27.60163",
+    "longitud": "-65.5373"
+  },
+  {
+    "nombre": "CHICLIGASTA",
+    "latitud": "-27.3126707",
+    "longitud": "-65.4820785"
+  }
+]

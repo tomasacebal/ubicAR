@@ -1,0 +1,127 @@
+[
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-27.4064",
+    "longitud": "-58.78276"
+  },
+  {
+    "nombre": "ESQUINA",
+    "latitud": "-30.0784368",
+    "longitud": "-59.4055912"
+  },
+  {
+    "nombre": "MONTE CASEROS",
+    "latitud": "-30.47490444",
+    "longitud": "-57.98344137"
+  },
+  {
+    "nombre": "GENERAL ALVEAR",
+    "latitud": "-29.10620117",
+    "longitud": "-56.5596695"
+  },
+  {
+    "nombre": "SAUCE",
+    "latitud": "-29.98807812",
+    "longitud": "-58.53570766"
+  },
+  {
+    "nombre": "ITUZAINGO",
+    "latitud": "-27.71591449",
+    "longitud": "-56.94751639"
+  },
+  {
+    "nombre": "BELLA VISTA",
+    "latitud": "-28.48951707",
+    "longitud": "-59.03412064"
+  },
+  {
+    "nombre": "CURUZU CUATIA",
+    "latitud": "-29.30959977",
+    "longitud": "-58.51285545"
+  },
+  {
+    "nombre": "LAVALLE",
+    "latitud": "-28.9356733",
+    "longitud": "-58.8052348"
+  },
+  {
+    "nombre": "SANTO TOME",
+    "latitud": "-28.51878166",
+    "longitud": "-56.05544289"
+  },
+  {
+    "nombre": "SAN LUIS DEL PALMAR",
+    "latitud": "-27.41325145",
+    "longitud": "-58.37888858"
+  },
+  {
+    "nombre": "ITATI",
+    "latitud": "-27.35196615",
+    "longitud": "-57.87393625"
+  },
+  {
+    "nombre": "EMPEDRADO",
+    "latitud": "-27.70578113",
+    "longitud": "-58.68808341"
+  },
+  {
+    "nombre": "GOYA",
+    "latitud": "-29.1751244",
+    "longitud": "-58.88982054"
+  },
+  {
+    "nombre": "MERCEDES",
+    "latitud": "-29.06",
+    "longitud": "-57.76000002"
+  },
+  {
+    "nombre": "GENERAL PAZ",
+    "latitud": "-27.7055629",
+    "longitud": "-57.79496584"
+  },
+  {
+    "nombre": "BERON DE ASTRADA",
+    "latitud": "-27.46421006",
+    "longitud": "-57.46462652"
+  },
+  {
+    "nombre": "SAN ROQUE",
+    "latitud": "-28.88393134",
+    "longitud": "-58.78485627"
+  },
+  {
+    "nombre": "PASO DE LOS LIBRES",
+    "latitud": "-29.87793885",
+    "longitud": "-57.53288465"
+  },
+  {
+    "nombre": "SAN COSME",
+    "latitud": "-27.36393313",
+    "longitud": "-58.66198243"
+  },
+  {
+    "nombre": "SALADAS",
+    "latitud": "-28.32076054",
+    "longitud": "-58.54644943"
+  },
+  {
+    "nombre": "SAN MIGUEL",
+    "latitud": "-27.78172853",
+    "longitud": "-57.31162693"
+  },
+  {
+    "nombre": "SAN MARTIN",
+    "latitud": "-29.3611063",
+    "longitud": "-56.8024261"
+  },
+  {
+    "nombre": "MBURUCUYA",
+    "latitud": "-27.9570441",
+    "longitud": "-57.93704971"
+  },
+  {
+    "nombre": "CONCEPCION",
+    "latitud": "-28.26887939",
+    "longitud": "-58.12185639"
+  }
+]

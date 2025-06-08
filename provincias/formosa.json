@@ -1,0 +1,47 @@
+[
+  {
+    "nombre": "PILAGAS",
+    "latitud": "-24.9895438",
+    "longitud": "-58.6912886"
+  },
+  {
+    "nombre": "MATACOS",
+    "latitud": "-23.67500877",
+    "longitud": "-62.31292343"
+  },
+  {
+    "nombre": "FORMOSA",
+    "latitud": "-25.73826408",
+    "longitud": "-57.92005921"
+  },
+  {
+    "nombre": "PIRANE",
+    "latitud": "-25.5645932",
+    "longitud": "-59.10290413"
+  },
+  {
+    "nombre": "BERMEJO",
+    "latitud": "-23.75578308",
+    "longitud": "-61.17063904"
+  },
+  {
+    "nombre": "RAMON LISTA",
+    "latitud": "-23.18007636",
+    "longitud": "-62.03032748"
+  },
+  {
+    "nombre": "PILCOMAYO",
+    "latitud": "-25.11711311",
+    "longitud": "-58.18847657"
+  },
+  {
+    "nombre": "PATIÑO",
+    "latitud": "-24.61192",
+    "longitud": "-60.30033"
+  },
+  {
+    "nombre": "LAISHI",
+    "latitud": "-26.65249252",
+    "longitud": "-58.34178925"
+  }
+]

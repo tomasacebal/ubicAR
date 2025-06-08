@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "CASTRO BARROS",
+    "latitud": "-28.9634753",
+    "longitud": "-66.99905992"
+  },
+  {
+    "nombre": "GENERAL SAN MARTÍN",
+    "latitud": "-31.69222606",
+    "longitud": "-65.88603902"
+  },
+  {
+    "nombre": "SAN BLAS DE LOS SAUCES",
+    "latitud": "-28.32074846",
+    "longitud": "-67.05337607"
+  },
+  {
+    "nombre": "CHILECITO",
+    "latitud": "-29.10233846",
+    "longitud": "-67.60548106"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-29.72519684",
+    "longitud": "-66.60608673"
+  },
+  {
+    "nombre": "GENERAL BELGRANO",
+    "latitud": "-30.55722809",
+    "longitud": "-66.16072845"
+  },
+  {
+    "nombre": "FAMATINA",
+    "latitud": "-28.9015462",
+    "longitud": "-67.5409052"
+  },
+  {
+    "nombre": "SANAGASTA",
+    "latitud": "-29.16052455",
+    "longitud": "-67.09195563"
+  },
+  {
+    "nombre": "ROSARIO VERA PEÑALOZA",
+    "latitud": "-31.38359642",
+    "longitud": "-66.62695313"
+  },
+  {
+    "nombre": "GENERAL JUAN F QUIROGA",
+    "latitud": "-30.75595424",
+    "longitud": "-66.66826174"
+  },
+  {
+    "nombre": "GENERAL ÁNGEL VERA PEÑALOZA",
+    "latitud": "-30.51572228",
+    "longitud": "-66.86412811"
+  },
+  {
+    "nombre": "ARAUCO",
+    "latitud": "-28.39283371",
+    "longitud": "-66.5682373"
+  },
+  {
+    "nombre": "GENERAL OCAMPO",
+    "latitud": "-30.87825775",
+    "longitud": "-66.18005371"
+  },
+  {
+    "nombre": "GENERAL LAMADRID",
+    "latitud": "-28.9762001",
+    "longitud": "-68.21488953"
+  },
+  {
+    "nombre": "INDEPENDENCIA",
+    "latitud": "-30.44523",
+    "longitud": "-67.359382"
+  },
+  {
+    "nombre": "CORONEL FELIPE VARELA",
+    "latitud": "-29.28070259",
+    "longitud": "-68.15567017"
+  },
+  {
+    "nombre": "VINCHINA",
+    "latitud": "-28.5085144",
+    "longitud": "-68.50804138"
+  },
+  {
+    "nombre": "CHAMICAL",
+    "latitud": "-30.38569434",
+    "longitud": "-66.26041862"
+  }
+]

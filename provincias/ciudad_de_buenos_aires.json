@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "COMUNA 7",
+    "latitud": "-34.63680708",
+    "longitud": "-58.45826985"
+  },
+  {
+    "nombre": "COMUNA 5",
+    "latitud": "-34.60922769",
+    "longitud": "-58.42174523"
+  },
+  {
+    "nombre": "COMUNA 15",
+    "latitud": "-34.59294425",
+    "longitud": "-58.48867142"
+  },
+  {
+    "nombre": "COMUNA 3",
+    "latitud": "-34.60909977",
+    "longitud": "-58.40306252"
+  },
+  {
+    "nombre": "CIUDAD DE BUENOS AIRES",
+    "latitud": "-34.61329173",
+    "longitud": "-58.38875174"
+  },
+  {
+    "nombre": "COMUNA 13",
+    "latitud": "-34.55488152",
+    "longitud": "-58.4502891"
+  },
+  {
+    "nombre": "COMUNA 11",
+    "latitud": "-34.6042463",
+    "longitud": "-58.49067643"
+  },
+  {
+    "nombre": "COMUNA 2",
+    "latitud": "-34.58587601",
+    "longitud": "-58.39499618"
+  },
+  {
+    "nombre": "COMUNA 9",
+    "latitud": "-34.64379608",
+    "longitud": "-58.5191299"
+  },
+  {
+    "nombre": "COMUNA 12",
+    "latitud": "-34.56062514",
+    "longitud": "-58.47494475"
+  },
+  {
+    "nombre": "COMUNA 8",
+    "latitud": "-34.67499358",
+    "longitud": "-58.47616299"
+  },
+  {
+    "nombre": "COMUNA 4",
+    "latitud": "-34.64641355",
+    "longitud": "-58.38427103"
+  },
+  {
+    "nombre": "COMUNA 10",
+    "latitud": "-34.62768629",
+    "longitud": "-58.48358728"
+  },
+  {
+    "nombre": "COMUNA 6",
+    "latitud": "-34.6168255",
+    "longitud": "-58.44360311"
+  },
+  {
+    "nombre": "COMUNA 1",
+    "latitud": "-34.62504786",
+    "longitud": "-58.38438723"
+  },
+  {
+    "nombre": "COMUNA 14",
+    "latitud": "-34.57389998",
+    "longitud": "-58.42243645"
+  }
+]

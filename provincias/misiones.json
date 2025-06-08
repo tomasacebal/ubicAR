@@ -1,0 +1,87 @@
+[
+  {
+    "nombre": "OBERA",
+    "latitud": "-27.3929091",
+    "longitud": "-55.12277042"
+  },
+  {
+    "nombre": "ELDORADO",
+    "latitud": "-26.15509937",
+    "longitud": "-54.58240989"
+  },
+  {
+    "nombre": "APOSTOLES",
+    "latitud": "-28.06622124",
+    "longitud": "-55.59853744"
+  },
+  {
+    "nombre": "SAN IGNACIO",
+    "latitud": "-27.25123207",
+    "longitud": "-55.53049249"
+  },
+  {
+    "nombre": "SAN PEDRO",
+    "latitud": "-26.50855467",
+    "longitud": "-53.92302828"
+  },
+  {
+    "nombre": "MONTECARLO",
+    "latitud": "-26.75464362",
+    "longitud": "-54.69924477"
+  },
+  {
+    "nombre": "CONCEPCION",
+    "latitud": "-27.88963381",
+    "longitud": "-55.42634391"
+  },
+  {
+    "nombre": "LIBERTADOR GENERAL SAN MARTÍN",
+    "latitud": "-26.78501255",
+    "longitud": "-54.90115103"
+  },
+  {
+    "nombre": "LEANDRO N. ALEM",
+    "latitud": "-27.55139444",
+    "longitud": "-55.54013766"
+  },
+  {
+    "nombre": "25 DE MAYO",
+    "latitud": "-27.54825371",
+    "longitud": "-54.76106548"
+  },
+  {
+    "nombre": "CAINGUAS",
+    "latitud": "-27.11729715",
+    "longitud": "-54.69785278"
+  },
+  {
+    "nombre": "CANDELARIA",
+    "latitud": "-27.37033272",
+    "longitud": "-55.53538513"
+  },
+  {
+    "nombre": "GUARANI",
+    "latitud": "-27.23071149",
+    "longitud": "-54.17877558"
+  },
+  {
+    "nombre": "GENERAL MANUEL BELGRANO",
+    "latitud": "-25.79129267",
+    "longitud": "-53.88429149"
+  },
+  {
+    "nombre": "SAN JAVIER",
+    "latitud": "-27.75120279",
+    "longitud": "-55.00895577"
+  },
+  {
+    "nombre": "IGUAZU",
+    "latitud": "-25.86430349",
+    "longitud": "-54.55489168"
+  },
+  {
+    "nombre": "CAPITAL",
+    "latitud": "-27.47659493",
+    "longitud": "-55.92169961"
+  }
+]

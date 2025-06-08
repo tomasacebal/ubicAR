@@ -1,0 +1,97 @@
+[
+  {
+    "nombre": "SAN JERONIMO",
+    "latitud": "-32.2399352",
+    "longitud": "-61.231266"
+  },
+  {
+    "nombre": "GENERAL OBLIGADO",
+    "latitud": "-28.6765561",
+    "longitud": "-59.7497004"
+  },
+  {
+    "nombre": "GARAY",
+    "latitud": "-31.1523125",
+    "longitud": "-60.1365521"
+  },
+  {
+    "nombre": "SAN LORENZO",
+    "latitud": "-32.69503021",
+    "longitud": "-60.73096847"
+  },
+  {
+    "nombre": "VERA",
+    "latitud": "-29.72572798",
+    "longitud": "-60.28951287"
+  },
+  {
+    "nombre": "GENERAL LOPEZ",
+    "latitud": "-34.17471072",
+    "longitud": "-62.05032677"
+  },
+  {
+    "nombre": "SAN JUSTO",
+    "latitud": "-30.8130411",
+    "longitud": "-60.3886502"
+  },
+  {
+    "nombre": "SAN CRISTOBAL",
+    "latitud": "-29.88749922",
+    "longitud": "-61.57182768"
+  },
+  {
+    "nombre": "BELGRANO",
+    "latitud": "-32.7494032",
+    "longitud": "-61.5381149"
+  },
+  {
+    "nombre": "LA CAPITAL",
+    "latitud": "-31.18858147",
+    "longitud": "-60.62677383"
+  },
+  {
+    "nombre": "CONSTITUCION",
+    "latitud": "-33.3790173",
+    "longitud": "-61.3544315"
+  },
+  {
+    "nombre": "CASEROS",
+    "latitud": "-33.2334798",
+    "longitud": "-61.682947"
+  },
+  {
+    "nombre": "CASTELLANOS",
+    "latitud": "-31.38184929",
+    "longitud": "-61.37005997"
+  },
+  {
+    "nombre": "SAN MARTIN",
+    "latitud": "-31.84254265",
+    "longitud": "-61.56270981"
+  },
+  {
+    "nombre": "LAS COLONIAS",
+    "latitud": "-31.6618986",
+    "longitud": "-61.0112577"
+  },
+  {
+    "nombre": "9 DE JULIO",
+    "latitud": "-29.0758472",
+    "longitud": "-61.73625069"
+  },
+  {
+    "nombre": "IRIONDO",
+    "latitud": "-32.92903431",
+    "longitud": "-61.26562377"
+  },
+  {
+    "nombre": "ROSARIO",
+    "latitud": "-33.07901007",
+    "longitud": "-60.91379957"
+  },
+  {
+    "nombre": "SAN JAVIER",
+    "latitud": "-29.42420679",
+    "longitud": "-59.97955475"
+  }
+]
