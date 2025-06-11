@@ -1,21 +1,21 @@
 [
   {
-    "nombre": "COMUNA 7",
+    "nombre": "Flores y Parque Chacabuco",
     "latitud": "-34.63680708",
     "longitud": "-58.45826985"
   },
   {
-    "nombre": "COMUNA 5",
+    "nombre": "Almagro y Boedo",
     "latitud": "-34.60922769",
     "longitud": "-58.42174523"
   },
   {
-    "nombre": "COMUNA 15",
+    "nombre": "Chacarita, Villa Crespo, La Paternal, Villa Ortúzar, Agronomía y Parque Chas",
     "latitud": "-34.59294425",
     "longitud": "-58.48867142"
   },
   {
-    "nombre": "COMUNA 3",
+    "nombre": "Balvanera y San Cristóbal",
     "latitud": "-34.60909977",
     "longitud": "-58.40306252"
   },
@@ -25,57 +25,57 @@
     "longitud": "-58.38875174"
   },
   {
-    "nombre": "COMUNA 13",
+    "nombre": "Núñez, Belgrano y Colegiales",
     "latitud": "-34.55488152",
     "longitud": "-58.4502891"
   },
   {
-    "nombre": "COMUNA 11",
+    "nombre": "Villa General Mitre, Villa Devoto, Villa del Parque y Villa Santa Rita",
     "latitud": "-34.6042463",
     "longitud": "-58.49067643"
   },
   {
-    "nombre": "COMUNA 2",
+    "nombre": "Recoleta",
     "latitud": "-34.58587601",
     "longitud": "-58.39499618"
   },
   {
-    "nombre": "COMUNA 9",
+    "nombre": "Liniers, Mataderos y Parque Avellaneda",
     "latitud": "-34.64379608",
     "longitud": "-58.5191299"
   },
   {
-    "nombre": "COMUNA 12",
+    "nombre": "Coghlan, Saavedra, Villa Urquiza y Villa Pueyrredón",
     "latitud": "-34.56062514",
     "longitud": "-58.47494475"
   },
   {
-    "nombre": "COMUNA 8",
+    "nombre": "Villa Soldati, Villa Riachuelo y Villa Lugano",
     "latitud": "-34.67499358",
     "longitud": "-58.47616299"
   },
   {
-    "nombre": "COMUNA 4",
+    "nombre": "La Boca, Barracas, Parque Patricios y Nueva Pompeya",
     "latitud": "-34.64641355",
     "longitud": "-58.38427103"
   },
   {
-    "nombre": "COMUNA 10",
+    "nombre": "Villa Real, Monte Castro, Versalles, Floresta, Vélez Sarsfield y Villa Luro",
     "latitud": "-34.62768629",
     "longitud": "-58.48358728"
   },
   {
-    "nombre": "COMUNA 6",
+    "nombre": "Caballito",
     "latitud": "-34.6168255",
     "longitud": "-58.44360311"
   },
   {
-    "nombre": "COMUNA 1",
+    "nombre": "Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución",
     "latitud": "-34.62504786",
     "longitud": "-58.38438723"
   },
   {
-    "nombre": "COMUNA 14",
+    "nombre": "Palermo",
     "latitud": "-34.57389998",
     "longitud": "-58.42243645"
   }

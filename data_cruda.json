@@ -573,7 +573,7 @@
       "Hogares con hacinamiento crítico": "1"
     },
     {
-      "Nombre": "COMUNA 7",
+      "Nombre": "Flores y Parque Chacabuco",
       "Código UTA 2020": "02007",
       "Código UTA 2010": "02007",
       "Latitud": "-34.63680708",
@@ -759,7 +759,7 @@
       "Filtros de la Capa": "<Filter><PropertyIsEqualTo><PropertyName>codigo</PropertyName><Literal>94021</Literal></PropertyIsEqualTo></Filter>"
     },
     {
-      "Nombre": "COMUNA 5",
+      "Nombre": "Almagro y Boedo",
       "Código UTA 2020": "02005",
       "Código UTA 2010": "02005",
       "Latitud": "-34.60922769",
@@ -1012,8 +1012,8 @@
       "Nombre": "LA PLATA",
       "Código UTA 2020": "06441",
       "Código UTA 2010": "06441",
-      "Latitud": "-35.03880607",
-      "Longitud": "-58.05930616",
+      "Latitud": "-34.9223266",
+      "Longitud": "-57.9555853",
       "Provincia": "BUENOS AIRES",
       "Ruta raiz de servicos OWS": "https://gis.obraspublicas.gob.ar/layers/public_wxs/",
       "Capa": "departamentos_2010_antartida",
@@ -1634,7 +1634,7 @@
       "Hogares con hacinamiento crítico": "4"
     },
     {
-      "Nombre": "COMUNA 15",
+      "Nombre": "Chacarita, Villa Crespo, La Paternal, Villa Ortúzar, Agronomía y Parque Chas",
       "Código UTA 2020": "02015",
       "Código UTA 2010": "02015",
       "Latitud": "-34.59294425",
@@ -1684,7 +1684,7 @@
       "Hogares con hacinamiento crítico": "2"
     },
     {
-      "Nombre": "COMUNA 3",
+      "Nombre": "Balvanera y San Cristóbal",
       "Código UTA 2020": "02003",
       "Código UTA 2010": "02003",
       "Latitud": "-34.60909977",
@@ -3720,7 +3720,7 @@
       "Hogares con hacinamiento crítico": "5"
     },
     {
-      "Nombre": "COMUNA 13",
+      "Nombre": "Núñez, Belgrano y Colegiales",
       "Código UTA 2020": "02013",
       "Código UTA 2010": "02013",
       "Latitud": "-34.55488152",
@@ -4348,8 +4348,8 @@
       "Nombre": "TIGRE",
       "Código UTA 2020": "06805",
       "Código UTA 2010": "06805",
-      "Latitud": "-34.3277116",
-      "Longitud": "-58.608687",
+      "Latitud": "-34.4222229",
+      "Longitud": "-58.5836678",
       "Provincia": "BUENOS AIRES",
       "Ruta raiz de servicos OWS": "https://gis.obraspublicas.gob.ar/layers/public_wxs/",
       "Capa": "departamentos_2010_antartida",
@@ -7045,7 +7045,7 @@
       "Hogares con hacinamiento crítico": "2"
     },
     {
-      "Nombre": "COMUNA 11",
+      "Nombre": "Villa General Mitre, Villa Devoto, Villa del Parque y Villa Santa Rita",
       "Código UTA 2020": "02011",
       "Código UTA 2010": "02011",
       "Latitud": "-34.6042463",
@@ -7170,7 +7170,7 @@
       "Hogares con hacinamiento crítico": "22"
     },
     {
-      "Nombre": "COMUNA 2",
+      "Nombre": "Recoleta",
       "Código UTA 2020": "02002",
       "Código UTA 2010": "02002",
       "Latitud": "-34.58587601",
@@ -7420,7 +7420,7 @@
       "Hogares con hacinamiento crítico": "5"
     },
     {
-      "Nombre": "COMUNA 9",
+      "Nombre": "Liniers, Mataderos y Parque Avellaneda",
       "Código UTA 2020": "02009",
       "Código UTA 2010": "02009",
       "Latitud": "-34.64379608",
@@ -8770,7 +8770,7 @@
       "Hogares con hacinamiento crítico": "3"
     },
     {
-      "Nombre": "COMUNA 12",
+      "Nombre": "Coghlan, Saavedra, Villa Urquiza y Villa Pueyrredón",
       "Código UTA 2020": "02012",
       "Código UTA 2010": "02012",
       "Latitud": "-34.56062514",
@@ -9620,7 +9620,7 @@
       "Hogares con hacinamiento crítico": "11"
     },
     {
-      "Nombre": "COMUNA 8",
+      "Nombre": "Villa Soldati, Villa Riachuelo y Villa Lugano",
       "Código UTA 2020": "02008",
       "Código UTA 2010": "02008",
       "Latitud": "-34.67499358",
@@ -9895,7 +9895,7 @@
       "Hogares con hacinamiento crítico": "7"
     },
     {
-      "Nombre": "COMUNA 4",
+      "Nombre": "La Boca, Barracas, Parque Patricios y Nueva Pompeya",
       "Código UTA 2020": "02004",
       "Código UTA 2010": "02004",
       "Latitud": "-34.64641355",
@@ -9920,7 +9920,7 @@
       "Hogares con hacinamiento crítico": "3"
     },
     {
-      "Nombre": "COMUNA 10",
+      "Nombre": "Villa Real, Monte Castro, Versalles, Floresta, Vélez Sarsfield y Villa Luro",
       "Código UTA 2020": "02010",
       "Código UTA 2010": "02010",
       "Latitud": "-34.62768629",
@@ -10973,8 +10973,8 @@
       "Nombre": "SAN ISIDRO",
       "Código UTA 2020": "06756",
       "Código UTA 2010": "06756",
-      "Latitud": "-34.47940181",
-      "Longitud": "-58.5074044",
+      "Latitud": "-34.4820826",
+      "Longitud": "-58.5305829",
       "Provincia": "BUENOS AIRES",
       "Ruta raiz de servicos OWS": "https://gis.obraspublicas.gob.ar/layers/public_wxs/",
       "Capa": "departamentos_2010_antartida",
@@ -12520,7 +12520,7 @@
       "Hogares con hacinamiento crítico": "2"
     },
     {
-      "Nombre": "COMUNA 6",
+      "Nombre": "Caballito",
       "Código UTA 2020": "02006",
       "Código UTA 2010": "02006",
       "Latitud": "-34.6168255",
@@ -12620,7 +12620,7 @@
       "Hogares con hacinamiento crítico": "1"
     },
     {
-      "Nombre": "COMUNA 1",
+      "Nombre": "Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución",
       "Código UTA 2020": "02001",
       "Código UTA 2010": "02001",
       "Latitud": "-34.62504786",
@@ -13145,7 +13145,7 @@
       "Hogares con hacinamiento crítico": "1"
     },
     {
-      "Nombre": "COMUNA 14",
+      "Nombre": "Palermo",
       "Código UTA 2020": "02014",
       "Código UTA 2010": "02014",
       "Latitud": "-34.57389998",
